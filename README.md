@@ -2,13 +2,13 @@
 This is my first GitHub repository for a class assignment 
 
 **##Project Title**
-Hello World 🌎
+- Hello World 🌎
 
 **##Description** 
-I created this GitHub for a class assignment and to practice repositories.
+- I created this GitHub for a class assignment and to practice repositories.
 
 **##Tools Used** 🤖
-- Github and Markdown 
+- _Github and Markdown_ 
 
 **##Files Used** 
 <ins>READ.md</ins> 📁
